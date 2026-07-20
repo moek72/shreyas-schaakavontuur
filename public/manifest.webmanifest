@@ -1,0 +1,17 @@
+{
+  "name": "Shreya's Schaakavontuur",
+  "short_name": "Shreya Schaak",
+  "description": "Oefenen, prijzen winnen en samen schaken.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf2",
+  "theme_color": "#6d4aff",
+  "icons": [
+    {
+      "src": "chess-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
